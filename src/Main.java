@@ -15,6 +15,7 @@ public class Main {
         customMap.put(35, 89);
         customMap.put(45, 98);
         customMap.put(55, 898);
+        customMap.put(55, 897);
         System.out.println("customMap.get(25) = " + customMap.get(25));
 
         System.out.println("All Value in Map");
